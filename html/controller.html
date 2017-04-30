@@ -1,0 +1,68 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title class="center">Roullete Controller</title>
+    <link rel="stylesheet" href="../libs/bootstrap/dist/css/bootstrap.min.css">
+    <link href="../libs/mdi/css/materialdesignicons.min.css" media="all" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="row"></div>
+    </div>
+    <script>
+        if (typeof module === 'object') { window.module = module; module = undefined; }
+    </script>
+    <script src="../libs/jquery/dist/jquery.min.js"></script>
+    <script src="../libs/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script>
+        if (window.module) module = window.module;
+    </script>
+    <script>
+        const rq = require('load-json-file');
+        const ipcRenderer = require('electron').ipcRenderer;
+        let buttonRound = $('.btn-question');
+        let name = $('.row');
+        let data;
+
+        rq('questions.json').then(json => {
+            data = json;
+            for (var i = 0; i < data.length; i++) {
+                var team = data[i];
+                var teamName = $('<div class="col-xs-6 col-sm-3 ' + team.team + '" style="background-color: ' + color(team.team) + '">' + team.team + '</div>');
+                name.append(teamName);
+
+                for (var j = 0; j < team.rounds.length; j++) {
+                    var round = team.rounds[j];
+                    var teamDiv = $('.' + team.team);
+                    var roundName = $('<div class="row round ' + team.team + '-' + (j + 1) + '"><span>Ronda ' + (j + 1) + '</span></div>');
+                    teamDiv.append(roundName);
+
+                    for (var k = 0; k < round.questions.length; k++) {
+                        var roundDiv = $('.' + team.team + '-' + (j + 1));
+                        var question = round.questions[k];
+
+                        var questionButton = $('<div class="row question question-' + (k + 1) + '"><span>Pregunta ' + (k + 1) + '</span><button type="button" class="btn btn-default col-sm-3 btn-question question-button-' + (k + 1) + '" value="' + i + '-' + j + '-' + k + '"></button></div>');
+                        roundDiv.append(questionButton);
+                    }
+                }
+            }
+
+            $('.btn-question').click(function (e) {
+                console.log((e.target).value);
+                ipcRenderer.send('send-question', (e.target).value); 
+            });
+        });
+
+        var color = function (team) {
+            if (team === "verde") return "green";
+            else if (team === "azul") return "blue";
+            else if (team === "amarillo") return "yellow";
+            else return "red"
+        };
+    </script>
+</body>
+
+</html>

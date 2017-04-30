@@ -1,0 +1,470 @@
+[
+    {
+        "team": "verde",
+        "rounds": [
+            {
+                "questions": [
+                    {
+                        "question": "¿Quién es el autor de la Biblia?",
+                        "options": [
+                            "Moisés",
+                            "Dios",
+                            "El Pastor",
+                            "Tío Antonio"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": "¿Quién fue el ángel más hermoso creados por Dios?",
+                        "options": [
+                            "Satanás",
+                            "Dios",
+                            "Lucifer",
+                            "Arcángel Miguel"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "¿Cómo creó Dios los Ángeles?",
+                        "options": [
+                            "Bueno",
+                            "Malo",
+                            "Regular",
+                            "Todas las anteriores"
+                        ],
+                        "correct": 0
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "question": "¿Quién creó a todos los espíritus?",
+                        "options": [
+                            "Dios",
+                            "El Universo",
+                            "Una explosión",
+                            "Leonel Messi"
+                        ],
+                        "correct": 0
+                    },
+                    {
+                        "question": "Completa el siguiente versículo: Por medio de Él todas las cosas fueron creadas sin el nada de lo creado:",
+                        "options": [
+                            "Fue diseñado",
+                            "Llego a existir",
+                            "Es hermoso",
+                            "Es bueno"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": "¿Qué quiso decir Dios cuando el hombre moriría por comer del fruto del árbol del bien y del mal?",
+                        "options": [
+                            "Que moriría físicamente",
+                            "Que sería separado, eternamente de Dios",
+                            "Que sería expulsado del jardín",
+                            "Que se iba a enfermar"
+                        ],
+                        "correct": 1
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "question": "¿Qué cuerpo tiene Dios?",
+                        "options": [
+                            "Cuerpo físico (humano)",
+                            "Cuerpo de super Zayazin",
+                            "Cuerpo espiritual",
+                            "Cuerpo de Superman"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "¿Cuál de estas palabras no definen a Dios?",
+                        "options": [
+                            "Dios Todopoderoso",
+                            "Dios está en todas partes",
+                            "Dios es Santo y jusb   to",
+                            "Dios tiene fin"
+                        ],
+                        "correct": 3
+                    },
+                    {
+                        "question": "¿A dónde se mudó tío Antonio?",
+                        "options": [
+                            "Al lado de la iglesia",
+                            "Al lado de la cañada",
+                            "Al lado de Carolina y Jorge",
+                            "Para la casa de Carolina y Jorgito"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "¿Cómo es el cuerpo de los angeles?",
+                        "options": [
+                            "Son invisibles",
+                            "Son de carne y hueso",
+                            "Son espíritus",
+                            "Todas las anteriores"
+                        ],
+                        "correct": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "team": "azul",
+        "rounds": [
+            {
+                "questions": [
+                    {
+                        "question": "¿Dónde está Dios?",
+                        "options": [
+                            "En la playa",
+                            "En la iglesia",
+                            "En casa de Carolina",
+                            "En todas partes"
+                        ],
+                        "correct": 3
+                    },
+                    {
+                        "question": "¿Cómo era el hombre cuando Dios lo creó?",
+                        "options": [
+                            "Regular",
+                            "Bueno",
+                            "Malo",
+                            "Feo"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": "¿Sobre qué le dio Dios el control a Adán?",
+                        "options": [
+                            "Sobre los animales",
+                            "Sobre la tierra",
+                            "Sobre los peces",
+                            "Todas las anteriores"
+                        ],
+                        "correct": 3
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "question": "¿A quién creó Dios para Adán después que lo puso en el Jardín del Edén?",
+                        "options": [
+                            "Peppa",
+                            "Eva",
+                            "Elsa y Ana (Frozen)",
+                            "Luna"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": "¿En qué versículo de la Biblia dice: que la Escritura es inspirada por Dios?",
+                        "options": [
+                            "Juan 3:16",
+                            "Génesis 1:1",
+                            "2 Timoteo 3:16ª",
+                            "Juan 1:3"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "¿Qué nombre tiene ahora Lucifer y que significa?",
+                        "options": [
+                            "Satanás, el malo",
+                            "Satanás, enemigo de Dios",
+                            "Satanás, el amigo",
+                            "Satanás, la serpiente"
+                        ],
+                        "correct": 1
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "question": "El Espíritu de Dios es…",
+                        "options": [
+                            "Fuerte y majestuoso",
+                            "Grande y Poderoso",
+                            "Alegre y asombroso",
+                            "Alegre y hermoso"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": "¿Un Espíritu (Ángel o Arcángel) en cuantos lugares puede estar al mismo tiempo?",
+                        "options": [
+                            "En muchos lugares",
+                            "En dos lugares a la vez",
+                            "En un lugar a la vez",
+                            "En ningún lugar"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "¿Por qué Dios es dueño de todo?",
+                        "options": [
+                            "Porque Dios manda",
+                            "Porque Él creo todo",
+                            "Porque Él es perfecto",
+                            "Porque es infinito"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": "¿Por qué Dios no cumpleaños?",
+                        "options": [
+                            "Porque no tiene fin",
+                            "Porque no tiene mamá",
+                            "Porque no tiene principio (Inicio)",
+                            "Porque no tenía con quien celebrar el cumpleaños"
+                        ],
+                        "correct": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "team": "amarillo",
+        "rounds": [
+            {
+                "questions": [
+                    {
+                        "question": "¿Dónde puso Dios a Adán después de crearlo?",
+                        "options": [
+                            "En Egipto",
+                            "En una isla",
+                            "En un rio",
+                            "En el Jardín del Edén"
+                        ],
+                        "correct": 3
+                    },
+                    {
+                        "question": "¿En cuántos días le tomo a Dios hacer toda la creación?",
+                        "options": [
+                            "6 Días",
+                            "7 Días",
+                            "Una semana",
+                            "Todas las anteriores"
+                        ],
+                        "correct": 0
+                    },
+                    {
+                        "question": "¿La Palabra de Dios fue escrita en un período de cuantos años?",
+                        "options": [
+                            "1700 años",
+                            "1600 años",
+                            "1500 años",
+                            "1400 años"
+                        ],
+                        "correct": 1
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "question": "¿Por qué Dios podía hacer TODO PERFECTO?",
+                        "options": [
+                            "Porque Él fue a la universidad",
+                            "Porque alguien le enseñó",
+                            "Porque Él es perfecto",
+                            "Porque Bob el constructor era su amigo"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "¿Qué arboles importantes hizo Dios en el Edén?",
+                        "options": [
+                            "El de manzanas y peras",
+                            "El de la Rabia",
+                            "El árbol de la perfección",
+                            "El árbol de la vida y el árbol del bien y del mal"
+                        ],
+                        "correct": 3
+                    },
+                    {
+                        "question": "¿Cuáles son las tres personas que están en Dios?",
+                        "options": [
+                            "Dios Jesús, Dios Padre, Dios el Gran Yo Soy",
+                            "Dios Hijo, Dios Espíritu Bueno, Dios Emanuel",
+                            "Dios Padre, Dios Hijo, Dios Espíritu Santo",
+                            "Dios Padre, Dios Jehová, Dios Espíritu Santo"
+                        ],
+                        "correct": 2
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "question": "Dios creó la vaca para darnos:",
+                        "options": [
+                            "Comida",
+                            "La leche",
+                            "Chicha",
+                            "El queso"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": "¿Cuántas veces ha cambiado la Biblia desde que fue originalmente escrita?",
+                        "options": [
+                            "2 veces",
+                            "Muchas veces",
+                            "Nunca ha cambiado",
+                            "1 sola vez"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "¿Cuál lugar de castigo preparó Dios para satanás y sus demonios?",
+                        "options": [
+                            "El lago de fuego",
+                            "La oscuridad eterna",
+                            "El abismo infinito",
+                            "Un lugar de tormento momentáneo"
+                        ],
+                        "correct": 0
+                    },
+                    {
+                        "question": "¿Si Dios creó todo perfecto, por qué el hombre peco?",
+                        "options": [
+                            "Porque la serpiente lo engaño",
+                            "Porque Eva le dijo",
+                            "Porque el hombre lo decidió",
+                            "Porque quería ser igual a Dios"
+                        ],
+                        "correct": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "team": "rojo",
+        "rounds": [
+            {
+                "questions": [
+                    {
+                        "question": "¿Cuántos dioses existen?",
+                        "options": [
+                            "Un Dios",
+                            "100 Dioses",
+                            "50 Dioses",
+                            "1000 Dioses"
+                        ],
+                        "correct": 0
+                    },
+                    {
+                        "question": "¿Para quién está escrita la Biblia?",
+                        "options": [
+                            "Para mis amigos",
+                            "Para Jorge",
+                            "Para todos",
+                            "Para los Judios"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "¿Cómo Dios creó todo?",
+                        "options": [
+                            "Con sus manos",
+                            "Con sus ángeles",
+                            "Con su voz",
+                            "Todas las anteriores"
+                        ],
+                        "correct": 2
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "question": "¿Qué dijo Dios acerca de lo que había hecho?",
+                        "options": [
+                            "Que era bonito",
+                            "Que estaba feo",
+                            "Que era muy bueno",
+                            "Todas las anteriores"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "¿A quién usó Dios para escribir la Biblia?",
+                        "options": [
+                            "Zaqueo",
+                            "Los profetas",
+                            "Los Ángeles",
+                            "Adán"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": "¿Qué hizo Dios con la rebelión de Lucifer?",
+                        "options": [
+                            "Se enojó pero no le dijo nada",
+                            "Los castigó por 1000 años",
+                            "Los echó de su presencia",
+                            "Los expulsó por 10 años"
+                        ],
+                        "correct": 2
+                    }
+                ]
+            },
+            {
+                "questions": [
+                    {
+                        "question": "¿Qué planeaba hacer Lucifer?",
+                        "options": [
+                            "Una pijamada",
+                            "Hacer una fiesta",
+                            "Ser como Dios",
+                            "Ir al programa de entrevista con Daniel"
+                        ],
+                        "correct": 2
+                    },
+                    {
+                        "question": "La Biblia es la Enseñanza de Dios para mí, con ella yo aprendo a amar y a vivir y …",
+                        "options": [
+                            "A meditar, a llorar y también a caminar",
+                            "A orar, actuar y también a respetar",
+                            "A cantar, a correr y también a saltar",
+                            "A cantar , a meditar y también a manejar"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": "“El cual exclamó: Esta si es hueso de mis huesos y carne de mi carne se llamará mujer…",
+                        "options": [
+                            "Porque del polvo fue creada",
+                            "Porque del hombre fue sacada",
+                            "Porque de la lluvia fue formada",
+                            "Porque de la costilla fue sacada"
+                        ],
+                        "correct": 1
+                    },
+                    {
+                        "question": "¿Qué necesita Dios?",
+                        "options": [
+                            "Nuestra Adoración",
+                            "Nuestra Obediencia",
+                            "Necesita a los Ángeles",
+                            "No Necesita Nada"
+                        ],
+                        "correct": 3
+                    }
+                ]
+            }
+        ]
+    }
+]

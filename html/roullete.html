@@ -1,0 +1,72 @@
+<html>
+
+<head>
+    <meta charset="UTO-8">
+    <title>Roulette</title>
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+</head>
+
+<body>
+
+	<audio id="background" src='../sound/background.mp3'></audio>
+	<audio id="rightsound" src='../sound/right.mp3'></audio>
+	<audio id="wrongsound" src='../sound/wrong.mp3'></audio>
+    <div class="logo">
+        <img src="../img/logo.png" />
+    </div>
+
+    <!--<div class="progress-bar trans">
+        <div class="trans"></div>
+    </div>-->
+
+    <div id="options" class="lifeline">
+        <div id="fifty" class="options-button"></div>
+        <!--<div id="audience" class="options-button"></div>
+        <div id="walk-away" class="options-button"></div>-->
+        <div class="trans audience">
+            <ul>
+                <li>A</li>
+                <li>B</li>
+                <li>C</li>
+                <li>D</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="question trans">
+        <p> </p>
+    </div>
+
+    <div class="answers">
+        <div class="options option-a">
+            A. <span></span>
+        </div>
+        <div class="options option-b">
+            B. <span></span>
+        </div>
+        <div class="options option-c">
+            C. <span></span>
+        </div>
+        <div class="options option-d">
+            D. <span></span>
+        </div>
+    </div>
+
+    <script>
+        if (typeof module === 'object') { window.module = module; module = undefined; }
+    </script>
+
+    <script src="../libs/jquery/dist/jquery.min.js"></script>
+    <script src="../libs/raphael/raphael-min.js" charset="utf-8"></script>
+    <!--<script src="../script/roullete.js" charset="utf-8"></script>-->
+    <script src="../script/main.js" charset="utf-8"></script>
+
+    <script>
+        if (window.module) module = window.module;
+    </script>
+
+    <audio id="quack" src="../sound/quack.mp3" autostart="false"></audio>
+    <audio id="aloh" src="../sound/aloh.mp3" autostart="false"></audio>
+</body>
+
+</html>

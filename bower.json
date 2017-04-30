@@ -1,0 +1,11 @@
+{
+  "name": "roulette-blue",
+  "version": "0.1.0",
+  "description": "Roullete Blue Team",
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "raphael": "1.4.7",
+    "mdi": "^1.8.36",
+    "airconsole": "airconsole-api#^1.4.0"
+  }
+}

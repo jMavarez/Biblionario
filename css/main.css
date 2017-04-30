@@ -1,0 +1,17 @@
+  .equal, .equal > div[class*='col-'] {  
+      display: -webkit-box;
+      display: -moz-box;
+      display: -ms-flexbox;
+      display: -webkit-flex;
+      display: flex;
+      flex:1 0 auto;
+  }
+
+.round {
+margin-left: 1cm;
+}
+
+.question {
+margin-left: 1.5cm;
+}
+
